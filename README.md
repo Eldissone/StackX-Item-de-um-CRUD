@@ -14,7 +14,7 @@ ALTER TABLE post
 # CRUD
 1- CREATE
 INSERT INTO Post (id_post, id_user, post, data_pos ) 
-VALUES (1, 10, 'Olá mundo esse é meu primeiro post', '2024-11-20 11:20:00'),
+VALUES (1, 10, 'Olá mundo esse é meu primeiro post', '2024-11-20 11:20:00'), </br>
        (2, 1, 'Olá mundo esse é meu primeiro post 2', '2024-11-21 18:20:00'),
        (3, 3, 'Olá mundo esse é meu primeiro post 3', '2024-11-21 20:30:00');
 
